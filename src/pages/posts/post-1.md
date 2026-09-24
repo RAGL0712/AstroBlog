@@ -1,6 +1,7 @@
 ---
+layout: ../layouts/MarkdownPostLayout.astro
 title: 'Mi primera publicación en el blog'
-pubDate: 2026-09-23
+
 description: 'Este es la primera publicación de mi nuevo blog Astro.'
 author: 'Alumno de Astro'
 image:
