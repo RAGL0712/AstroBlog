@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/MarkdownPostLayout.astro
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi primera publicación en el blog'
 
 description: 'Este es la primera publicación de mi nuevo blog Astro.'
